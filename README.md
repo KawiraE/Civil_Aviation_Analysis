@@ -139,3 +139,7 @@ The visualization phase of this project was designed to uncover insights and tre
 - Provided actionable insights to guide improvements in aviation safety protocols, training, and operations.
 
 These visualizations played a key role in transforming raw data into meaningful insights, equipping stakeholders with a deeper understanding of aviation safety dynamics and areas for improvement.
+
+# Tableau Visualization link 
+
+**https://public.tableau.com/views/Civil_Aviation_Risk_Analysis/CivilAviationRiskAnalysisDashboard_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
